@@ -12,7 +12,7 @@ The tasks include:
 
 Dataset
 The project works with:
-GloVe Word2Vec embeddings from Wikipedia,
+GloVe Word2Vec embeddings from Wikipedia (download from google),
 Spam-Ham dataset for text classification.
 
 NLP Tasks

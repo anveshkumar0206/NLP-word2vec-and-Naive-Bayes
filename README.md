@@ -3,6 +3,7 @@
 Project Overview
 
 This project explores Natural Language Processing (NLP) concepts using Word2Vec embeddings and a Naïve Bayes classifier for text classification. 
+
 The tasks include:
 1.Loading GloVe Word2Vec embeddings for word similarity analysis.
 2.Computing word similarity scores between different word pairs.
@@ -15,6 +16,7 @@ GloVe Word2Vec embeddings from Wikipedia,
 Spam-Ham dataset for text classification.
 
 NLP Tasks
+
 1.Word Similarity Computation
 Using pre-trained GloVe embeddings, compute similarity scores for word pairs such as:
 Man vs. Woman
@@ -32,7 +34,7 @@ Train a Naïve Bayes classifier on the Spam-Ham dataset.
 Predict whether a given text message is spam or not.
 Evaluate the classifier's accuracy.
 
-Model Training & Evaluation
+Model Training & Evaluation:
 The Word2Vec model computes cosine similarity between word vectors.
 The Naïve Bayes classifier is trained on a labeled dataset to classify spam messages.
 
@@ -41,7 +43,7 @@ Displays word similarity scores using Word2Vec.
 Shows the most relevant analogies from the dataset.
 Outputs spam classification results.
 
-References
-GloVe Word Embeddings
-Word2Vec Documentation
+References:
+GloVe Word Embeddings,
+Word2Vec Documentation, and
 Naïve Bayes Classifier in NLP
